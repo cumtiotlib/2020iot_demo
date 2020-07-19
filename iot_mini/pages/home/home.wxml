@@ -1,0 +1,7 @@
+<image src='{{ori_img}}' style='width:100vw;'></image>
+<image src='{{pre_img}}' style='width:100vw;'></image>
+<view class="btn-flex">
+    <button catchtap="upload">上传图片</button>
+    <button catchtap="predict">预测图片</button>
+</view>
+<!-- {{id}} -->
